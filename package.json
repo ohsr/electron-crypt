@@ -1,0 +1,19 @@
+{
+  "name": "electron-crypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^8.2.5"
+  },
+  "dependencies": {
+    "electron-reload": "^1.5.0",
+    "electron-store": "^5.1.1"
+  }
+}
